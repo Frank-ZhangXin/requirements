@@ -189,7 +189,7 @@ XStatic-Angular-Gettext===2.3.8.0
 Pygments===2.2.0
 XStatic-Hogan===2.0.0.2
 XStatic-objectpath===1.2.1.0
-python-manilaclient===1.21.0
+python-manilaclient===1.21.1
 requests===2.18.4
 snowballstemmer===1.2.1
 Jinja2===2.10
@@ -376,7 +376,7 @@ betamax===0.8.0
 construct===2.8.22
 pyparsing===2.2.0
 dogpile.cache===0.6.4
-python-barbicanclient===4.6.0
+git+git://github.com:Frank-ZhangXin/python-barbicanclient.git@federation-fix#egg=python-barbicanclient
 blinker===1.4;python_version=='3.4'
 blinker===1.4;python_version=='3.5'
 tricircleclient===0.3.0
